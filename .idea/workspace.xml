@@ -9,7 +9,10 @@
     <bookmark url="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" line="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c416492f-7019-4a15-b13e-c8a45e19c4f4" name="Default" comment="" />
+    <list default="true" id="c416492f-7019-4a15-b13e-c8a45e19c4f4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="CoolWeather.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,142 +42,7 @@
     <favorites_list name="CoolWeather" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Province.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/db/Province.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-              <folding>
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#704#705#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="City.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/db/City.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
-                <element signature="e#674#675#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
-                <element signature="e#748#749#0" expanded="true" />
-                <element signature="e#781#782#0" expanded="true" />
-                <element signature="e#830#831#0" expanded="true" />
-                <element signature="e#874#875#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Country.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/db/Country.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding>
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#708#709#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
-                <element signature="e#767#768#0" expanded="true" />
-                <element signature="e#808#809#0" expanded="true" />
-                <element signature="e#844#845#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="litepal.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/asset/litepal.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-              <folding>
-                <element signature="e#319#337#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -2039,6 +1907,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-39" />
+    <option name="y" value="13" />
     <option name="width" value="1606" />
     <option name="height" value="1030" />
   </component>
@@ -2067,7 +1937,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -2293,6 +2162,7 @@
       <pane id="AndroidView">
         <subPane />
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2632,7 +2502,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1606" height="1030" extended-state="0" />
+    <frame x="-39" y="13" width="1606" height="1030" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2661,6 +2531,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2713,16 +2584,6 @@
           <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding>
             <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2734,20 +2595,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2756,24 +2603,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2795,13 +2625,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/db.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/gson.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/service.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/util.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/litepal.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/lite.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/asset/litepal" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/asset/litepal.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/db/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/db/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/db/Province.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="e#293#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -2814,91 +2685,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/db.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/gson.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/service.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/util.java" />
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/db/Province.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/db/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/litepal.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/lite.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/android/db/Country.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/asset/litepal" />
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
         <state />
@@ -2909,14 +2706,6 @@
           <folding>
             <element signature="e#319#337#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/asset/litepal.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
